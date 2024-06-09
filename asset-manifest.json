@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ulises-magnarelli/api-food-recipes.git/static/css/main.07ad55e4.css",
+    "main.js": "/ulises-magnarelli/api-food-recipes.git/static/js/main.0b3d3333.js",
+    "index.html": "/ulises-magnarelli/api-food-recipes.git/index.html",
+    "main.07ad55e4.css.map": "/ulises-magnarelli/api-food-recipes.git/static/css/main.07ad55e4.css.map",
+    "main.0b3d3333.js.map": "/ulises-magnarelli/api-food-recipes.git/static/js/main.0b3d3333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ad55e4.css",
+    "static/js/main.0b3d3333.js"
+  ]
+}
